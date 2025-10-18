@@ -15,7 +15,7 @@ run the HTML file
 N/A at this time
 
 ### The Metrics Calculator can be edited by:
-modifying any selected feature file and changing syntax
+Modifying any selected feature file and changing syntax
 
 ## **<ins>Resources</ins>**
 [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
