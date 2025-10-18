@@ -9,7 +9,7 @@ HTML, JavaScript, CSS.
 ## **<ins>Working With The Metrics Calculator </ins>**
 The command to generate the project is:
 open the Calculator folder in an IDE
-run the HTML file
+and run the HTML file
 
 ### The link to display The Metrics Calculator
 N/A at this time
